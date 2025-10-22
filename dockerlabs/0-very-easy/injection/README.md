@@ -3,7 +3,6 @@
 Dificultad : Muy Facil
 
 ## Fase de Escaneo
----
 
 Vamos a realizar un escaneo con nmap a los puertos, servicios y versiones de la maquina victima.
 
