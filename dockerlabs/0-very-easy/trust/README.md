@@ -102,3 +102,6 @@ Nmap done: 1 IP address (1 host up) scanned in 7.01 seconds
 - **Output Normal** - Guarda resultados en formato normal en archivo "targeted"
 
 
+Podemos visualizar el home del puerto 80
+
+![Home Trust page](./resources/trust-page.png)
